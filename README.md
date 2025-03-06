@@ -46,7 +46,7 @@ Key Findings
 Top Tracks: The most played tracks were identified, with the total play duration ranked by track.
 Platform Usage: We found that the most popular platform for streaming was Andriod.
 Shuffle Mode: A significant percentage of users preferred shuffle mode, with 66% of tracks played on shuffle.
-
+Time - based trend: Year 2016 to 2018, were years with the most streams.
 
 
 Future Work
